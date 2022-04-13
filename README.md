@@ -8,7 +8,7 @@ The first name...
 The elapsed time...
 ## Example usage
 ```
-uses: raulanatol/my-action@v1.0.0
+uses: cesarlinares0/my-action@v1.0.2
 with:
 FIRST_NAME: 'World'
 ```
